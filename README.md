@@ -1,21 +1,7 @@
 Gist Database
 ===============
 
-
-<p align="center">
-  <a href="https://youtu.be/XzFNMy1UDQM" target="_blank">
-    <img src="https://img.youtube.com/vi/XzFNMy1UDQM/0.jpg">
-  </a>
-
-
-<p align="center">
-  <a href="https://youtu.be/XzFNMy1UDQM" target="_blank"><i>Project Overview</i></a>
-</p>
-
-<!-- This video needs to be rerecording with new sound -->
-
-
-This project will combine our work with the [requests library](http://docs.python-requests.org/en/master/) (HTTP) and databases. We will use requests to interface with Github's API to retrieve [gists](https://help.github.com/articles/about-gists/) and store them in a database that we will then be able to perform searches on.
+Today's project will combine our work with the [requests library](http://docs.python-requests.org/en/master/) (HTTP) and databases. We will use requests to interface with Github's API to retrieve [gists](https://help.github.com/articles/about-gists/) and store them in a database that we will then be able to perform searches on.
 
 Example:
 * Guido's HTML Gists: [https://gist.github.com/gvanrossum](https://gist.github.com/gvanrossum)
