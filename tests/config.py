@@ -12,7 +12,7 @@ POPULATED_DATABASE_NAME = 'populated_gists_database.db'
 POPULATED_DATABASE_PATH = os.path.join(
     BASE_TESTS_PATH, POPULATED_DATABASE_NAME)
 
-
+print(POPULATED_DATABASE_PATH)
 
 DATABASE_SCHEMA_PATH = os.path.join(BASE_PROJECT_PATH, 'schema.sql')
 
